@@ -1,0 +1,33 @@
+{
+  "name": "@cross2d/react-web-swrefresh",
+  "version": "1.0.0",
+  "description": "-- ##react-native-swRefresh是提供react-native下拉刷新和下拉加载组件，简单好用，支持自定义,支持iOS，Android 。 ###提供SwRefreshScrollView和SwRefreshListView两种支持下拉刷新的组件，SwRefreshListView支持上拉加载更多。 实现方式不一样 所以Android体验可能稍微有点不同。 ####因为刚接触，改着改着就有点冗余，代码不是很优美，会慢慢优化的. -- ##介绍:[简书上有更详细的介绍](http://www.jianshu.com/p/cb029455f9cd)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "release": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross2d/react-web-swRefresh.git"
+  },
+  "author": "Colin3dmax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cross2d/react-web-swRefresh/issues"
+  },
+  "homepage": "https://github.com/cross2d/react-web-swRefresh#readme",
+  "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "android",
+        "web",
+        "pull refresh",
+        "push loadMore",
+        "下拉刷新",
+        "上拉加载"
+    ]
+}
